@@ -1,0 +1,12 @@
+package car;
+
+public interface ICarInterface {
+    void Drive();
+    void Stop();
+    void TurnRight();
+    void TurnLeft();
+    void Accelerate();
+    void RandomEvent();
+
+
+}
